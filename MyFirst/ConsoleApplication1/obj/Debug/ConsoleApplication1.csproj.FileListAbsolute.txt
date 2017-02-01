@@ -1,0 +1,6 @@
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Morten\Temp\Projekter\MyFirst\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

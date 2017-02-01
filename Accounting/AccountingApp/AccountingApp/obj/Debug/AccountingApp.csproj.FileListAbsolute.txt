@@ -1,0 +1,6 @@
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe.config
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\obj\Debug\AccountingApp.csprojResolveAssemblyReference.cache
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\bin\Debug\AccountingApp.exe
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\bin\Debug\AccountingApp.pdb
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\obj\Debug\AccountingApp.exe
+C:\Morten\Temp\Projekter\Accounting\AccountingApp\AccountingApp\obj\Debug\AccountingApp.pdb
